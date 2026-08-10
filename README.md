@@ -124,7 +124,9 @@ npm run build
 * **Role:** Frontend Web Developer
 * **Stack:** React, Vite, Tailwind CSS, Zustand
 * **GitHub:** [@NadirShakoor](https://github.com/NadirShakoor)
-
+* **linkedin:** (www.linkedin.com/in/nadirshakoor)
+* **Netlify Link:** (https://resumebuilder-hackathon-project.netlify.app/)
+  
 ---
 
 *Made with ❤️ by Nadir Shakoor Khatti*
