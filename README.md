@@ -127,4 +127,4 @@ npm run build
 
 ---
 
-*Made with ❤️ by Nadir Shakoor*
+*Made with ❤️ by Nadir Shakoor Khatti*
