@@ -122,7 +122,7 @@ npm run build
 **Nadir Shakoor Khatti**
 
 * **Role:** Frontend Web Developer
-* **Stack:** React, Vue.js, Vite, Tailwind CSS, Zustand
+* **Stack:** React, Vite, Tailwind CSS, Zustand
 * **GitHub:** [@NadirShakoor](https://github.com/NadirShakoor)
 
 ---
